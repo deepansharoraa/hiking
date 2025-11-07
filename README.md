@@ -10,28 +10,28 @@ OneNature lets users explore, book, and review exciting nature tours — all fro
 ### Home Page
 ![Screenshot 1](./screenshots/Screenshot%202025-11-07%20191740.png)
 
-### Tour Overview
+### Different Tours
 ![Screenshot 2](./screenshots/Screenshot%202025-11-07%20191759.png)
 
-### Tour Details
+### 
 ![Screenshot 3](./screenshots/Screenshot%202025-11-07%20191811.png)
 
-### Sea Explorer Tour
+### Tour Details - Sea Explorer Tour
 ![Screenshot 4](./screenshots/Screenshot%202025-11-07%20191848.png)
 
-### Booking Section
+### 
 ![Screenshot 5](./screenshots/Screenshot%202025-11-07%20191859.png)
 
-### Login Page
+###
 ![Screenshot 6](./screenshots/Screenshot%202025-11-07%20191912.png)
 
-### Signup Page
+###
 ![Screenshot 7](./screenshots/Screenshot%202025-11-07%20191920.png)
 
-### User Dashboard
+### Login Page
 ![Screenshot 8](./screenshots/Screenshot%202025-11-07%20191932.png)
 
-### Account Settings
+### Signup Page
 ![Screenshot 9](./screenshots/Screenshot%202025-11-07%20191943.png)
 
 ---
